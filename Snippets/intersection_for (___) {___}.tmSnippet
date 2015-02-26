@@ -12,7 +12,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>ifor</string>
+	<string>intersection_for</string>
 	<key>uuid</key>
 	<string>771C3DD9-2774-44D9-A886-626DBBA26DF7</string>
 </dict>

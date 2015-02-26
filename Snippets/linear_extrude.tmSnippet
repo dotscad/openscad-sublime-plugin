@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>le</string>
+	<string>linear_extrude</string>
 	<key>uuid</key>
 	<string>27811656-B6EC-4B1F-8774-9A1656D2226E</string>
 </dict>

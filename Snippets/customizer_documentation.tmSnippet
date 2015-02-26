@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>mirror([${1:1}, ${2:0}, ${3:0}]) {
-	${0}
-}
-</string>
+	<string>Customizer Documentation URL: http://customizer.makerbot.com/docs${1:}
+	</string>
 	<key>name</key>
-	<string>mirror</string>
+	<string>Customizer Documentation</string>
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>mir</string>
+	<string>custdocs</string>
 	<key>uuid</key>
-	<string>20FE015F-F38A-4DAE-80D2-6BAE08F92CE2</string>
+	<string>0DC79ABF-3451-44C9-A3D9-230416E43F12</string>
 </dict>
 </plist>

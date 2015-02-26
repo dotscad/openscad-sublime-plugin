@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>mink</string>
+	<string>minkowski</string>
 	<key>uuid</key>
 	<string>E8BD8DE3-32EB-479D-A2FB-FC5839286276</string>
 </dict>

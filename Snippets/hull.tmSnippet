@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>hul</string>
+	<string>hull</string>
 	<key>uuid</key>
 	<string>DEFA2B2D-F5E2-42BD-BBEB-A4726BCEDE87</string>
 </dict>

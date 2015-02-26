@@ -10,7 +10,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>polyg</string>
+	<string>polygon</string>
 	<key>uuid</key>
 	<string>DFDB8C74-B3DF-4178-B060-BC6C7B0E2815</string>
 </dict>

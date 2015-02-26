@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>cyl</string>
+	<string>cylinder</string>
 	<key>uuid</key>
 	<string>8F8C5F6F-6FBD-4D94-A2BD-A00B582C7F94</string>
 </dict>

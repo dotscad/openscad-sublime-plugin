@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>cir</string>
+	<string>circle</string>
 	<key>uuid</key>
 	<string>A0E2947E-9CF3-41E4-9EC1-23825E4BBEBE</string>
 </dict>

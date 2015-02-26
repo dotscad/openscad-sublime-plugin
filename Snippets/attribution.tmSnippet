@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// ${1} v${2:1.0}
+// by TheNewHobbyist 2015 (http://thenewhobbyist.com)
+// http://www.thingiverse.com/thing:
+//
+// "${1}" is licensed under a 
+// Creative Commons Attribution-NonCommercial 3.0 Unported License.
+//
+// Description: 
+// ${3}
+//
+// Usage: 
+// ${4}
+//
+//
+</string>
+	<key>name</key>
+	<string>attribution</string>
+	<key>scope</key>
+	<string>source.scad</string>
+	<key>tabTrigger</key>
+	<string>attribution</string>
+	<key>uuid</key>
+	<string>36BE7AB5-4428-4E25-9CEF-B89A7936ADF8</string>
+</dict>
+</plist>

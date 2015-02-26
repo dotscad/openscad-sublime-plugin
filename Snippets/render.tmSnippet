@@ -12,7 +12,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>ren</string>
+	<string>render</string>
 	<key>uuid</key>
 	<string>20C624CA-F218-4454-90C3-8CCF03D00FA1</string>
 </dict>

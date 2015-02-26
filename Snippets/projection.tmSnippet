@@ -10,7 +10,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>proj</string>
+	<string>projection</string>
 	<key>uuid</key>
 	<string>DF3B2908-F82F-47FB-97AF-9AEEE95D15D1</string>
 </dict>

@@ -10,7 +10,7 @@
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>
-	<string>surf</string>
+	<string>surface</string>
 	<key>uuid</key>
 	<string>C02A06D3-0EFD-400A-9BD4-7F9C48796479</string>
 </dict>
